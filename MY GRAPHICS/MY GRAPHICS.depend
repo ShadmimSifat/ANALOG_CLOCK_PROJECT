@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1527412104 source:d:\my project\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<stdio.h>
+	<time.h>
+
+1462108168 d:\my project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1527416146 source:d:\clock_project\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<stdio.h>
+	<time.h>
+
+1462108168 d:\clock_project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1527416146 source:d:\departmental things 2\all term projects\l1 t1\clock_project\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<stdio.h>
+	<time.h>
+
+1462108168 d:\departmental things 2\all term projects\l1 t1\clock_project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
